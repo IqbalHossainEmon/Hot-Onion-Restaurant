@@ -6,7 +6,7 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 
 const Header = () => {
   return (
-    <nav className="flex mt-3">
+    <nav className="flex my-7">
       <Link to="/home">
         <img className=" w-36 ml-10" src={headerLogo} alt="" />
       </Link>
@@ -14,11 +14,11 @@ const Header = () => {
         <Link to="/cart">
           <FontAwesomeIcon icon={faShoppingCart} />
         </Link>
-        <Link className="mx-6" to="/login">
+        <Link className="mx-6 font-semibold" to="/login">
           Login
         </Link>
         <Link
-          className="bg-red-500 mr-8 text-white px-3 py-1 rounded-full"
+          className="bg-red-500 hover:bg-red-600 transition mr-8 text-sm text-white px-4 py-2 rounded-full"
           to="/registration"
         >
           Sign up

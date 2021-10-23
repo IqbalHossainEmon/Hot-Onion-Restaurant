@@ -1,10 +1,14 @@
 import React from "react";
-import Header from "../Header/Header";
+import Search from "../Search/Search";
+import Why from "../Why/Why";
+import Foods from "./Foods/Foods";
 
 const Home = () => {
   return (
     <div>
-      <Header />
+      <Search />
+      <Foods />
+      <Why />
     </div>
   );
 };

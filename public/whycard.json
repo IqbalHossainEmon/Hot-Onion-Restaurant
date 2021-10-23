@@ -1,0 +1,23 @@
+[
+    {
+    "id": 1,
+    "headerImg" : "https://i.ibb.co/JCcYBDY/Group-204.png",
+    "title": "Fast Delivery",
+    "img": "https://i.ibb.co/HdY6msb/human-1.png",
+    "description": "Keep you system in sync with automated web hook based notifications each time link is paid and how we dream about our future."
+},
+    {
+    "id": 2,
+    "headerImg" : "https://i.ibb.co/2dF5XqR/Group-245.png",
+    "title": "A Good Auto Responder",
+    "img": "https://i.ibb.co/L8vfHqV/human-2.png",
+    "description": "Keep you system in sync with automated web hook based notifications each time link is paid and how we dream about our future."
+},
+    {
+    "id": 3,
+    "headerImg" : "https://i.ibb.co/319kw7q/Group-1133.png",
+    "title": "Home Delivery",
+    "img": "https://i.ibb.co/K2kbXMT/human-3.png",
+    "description": "Keep you system in sync with automated web hook based notifications each time link is paid and how we dream about our future."
+}
+]
